@@ -1,0 +1,10 @@
+a.out
+test.MTS
+time_counter.flv
+*.pyc
+*__pycache__
+
+tag_pic/
+obj/
+log/
+
